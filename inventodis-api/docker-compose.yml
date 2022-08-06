@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  redis-stack:
+    container_name: inventodis-redis
+    image: redis/redis-stack-server
+    restart: always
+    ports:
+      - '6388:6379'
+    networks:
+      - inventodis-net
+
+networks:
+  inventodis-net:
+    name: inventodis-net
+    driver: bridge
