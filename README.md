@@ -50,10 +50,13 @@ yarn local
 
 ![Inventory](screenshot/02.png)
 
+![](screenshot/03.png)
+
 ## Learn from demo
 
 - Using riot file clit to import data to Redis
 - RedisSearch
 - Redis-om-node
 - Socket.io
+- Tool [RedisInsight](https://redis.com/redis-enterprise/redis-insight/)
 - ...
