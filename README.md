@@ -64,3 +64,7 @@ yarn local
 - Socket.io
 - Tool [RedisInsight](https://redis.com/redis-enterprise/redis-insight/)
 - ...
+
+## Reference
+
+- https://github.com/redis-developer/brewdis
