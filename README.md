@@ -9,6 +9,10 @@ Build demo Inventodis inspire from https://www.youtube.com/watch?v=kXaSwsneFnY&t
 - Socket.io
 - Nextjs
 
+## Architecture
+
+![Architecture](screenshot/04.png)
+
 ## Setup
 
 ### Client
